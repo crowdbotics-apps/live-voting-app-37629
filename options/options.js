@@ -14,6 +14,7 @@ export const modulesOptions = {
   "@modules/app-menu": {
     copy: "Routes available!"
   },
+
   "@modules/splash": {
     duration: duration,
     onDurationEnd: onDurationEnd,
