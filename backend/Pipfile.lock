@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "3236cdad5e16723e83e800c91674148eeda86b760b71e41a182859514ceefb5a"
+            "sha256": "9ff04756f46f98c35725368a86114863fb1b553fcfb244b001acc070813117f1"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -59,6 +59,10 @@
         "cb-camera": {
             "editable": true,
             "path": "./modules/camera"
+        },
+        "cb-privacy-policy": {
+            "editable": true,
+            "path": "./modules/privacy_policy"
         },
         "cb-terms-and-conditions": {
             "editable": true,
